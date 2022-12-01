@@ -42,3 +42,10 @@ The path to the apache folder is set in `update-dr.bat` and has a default value 
 Usage: `update-dr` from any directory you want the document root to be set to.
 
 *Note: this command may need admin privileges if the server process was started with admin privileges.*
+
+<br>
+
+## apache-off
+Kill the apache server process.
+
+*Note: this command may need admin privileges if the server process was started with admin privileges.*
